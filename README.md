@@ -1,2 +1,2 @@
-#🚑 Detection of Parkinson's disease
+# Detection of Parkinson's disease 🚑
 
